@@ -10,53 +10,25 @@
 ---
 
 ## 🌟 About Me
-Hey there! I'm **Aswin S**, a curious and passionate **AI/ML student and software developer**.  
+Hey there! I'm **Aswin S**, a passionate **AI/ML student and software developer**.  
 I love building **intelligent systems**, **ML models**, and **AI-powered applications** that solve real-world problems.  
 
 💡 **Belief:** Code + AI = the future. I aim to create **projects that think, learn, and innovate**.  
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinS&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinS&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinS&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinS&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 💻 What I Do
-- 🌱 Currently exploring **Deep Learning, NLP, and Computer Vision**  
-- 🧠 Building projects like **Expense Tracker**, **Inventory System**, and **Web Scrapers**  
-- 💬 Love discussing **AI/ML, Data Visualization, and Python hacks**  
-
----
-
-### ⚡ Fun Bits
-- 🧩 Enjoy solving **logic puzzles and optimizing code**  
-- 🎵 Lo-fi beats fuel my coding sessions  
-- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”*  
-- 😄 Fun fact: I think in **algorithms before writing code**  
 
 ---
 
 ### 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,flask,git,github,linux,opencv,tensorflow,vscode" />
-</p>
-
----
-
-## 📬 Connect & Reach Me  
-<p align="center">
-  <a href="mailto:aswin@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aswin-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-388E3C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a>
 </p>
 
 ---
@@ -76,29 +48,12 @@ I love building **intelligent systems**, **ML models**, and **AI-powered applica
 
 ---
 
-### 📚 Currently Learning
-- Transformers & NLP models  
-- Cloud deployment (AWS/GCP) for AI projects  
-- Advanced Computer Vision  
+### ⚡ Fun Bits / Motto
+- 🧩 Enjoy solving **logic puzzles and optimizing code**  
+- 🎵 Lo-fi beats fuel my coding sessions  
+- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”*  
+- 😄 Fun fact: I think in **algorithms before writing code**  
 
----
-
-### 🏆 Certifications
-- MathWorks: Deep Learning Onramp ✅  
-- Bentley: OpenRoads Designer SDK ✅  
-- Coursera / IBM AI & ML Certificates  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinS&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Fun Quote
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Every+bug+fixed+is+a+lesson+learned;Every+model+trained+is+a+step+toward+innovation;Keep+learning,+keep+building+💡" />
 </p>
@@ -108,8 +63,6 @@ I love building **intelligent systems**, **ML models**, and **AI-powered applica
 <p align="center">
   <img src="https://github.com/AswinS/AswinS/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/38/4b/90/384b90bae69429b729ebe49f142178a5.gif" width="300" alt="thank you gif"/>
