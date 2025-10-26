@@ -81,16 +81,3 @@ I love building **intelligent systems**, **ML models**, and **AI-powered applica
 
 ---
 
-<p align="center">
-  <img src="https://github.com/AswinS/AswinS/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/38/4b/90/384b90bae69429b729ebe49f142178a5.gif" width="300" alt="thank you gif"/>
-</p>
-
-<h3 align="center">✨ Thanks for stopping by! ✨</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:2962FF&height=100&section=footer"/>
-</p>
