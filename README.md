@@ -6,20 +6,28 @@
         <img src="https://github.com/Aswin480/Aswin480/raw/cb218cf0a5a33ccaa7ccdc215a597b15499e7b23/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="560" style="border-radius:10px;"/>
       </td>
 <!-- Right side: Intro text + typing animation -->
-      <td style="padding-left:50px; vertical-align:middle; text-align:left;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=400&lines=Hi+there!+I'm+Aswin+S;AI+%26+ML Visionary+%26+Python Architect;Turning+Ideas+into+Next-Gen+Solutions;Building+High-Impact+Intelligent+Systems;Coding+Real-World+Impact" alt="Typing SVG" />
+      <td style="padding-right:370px; vertical-align:middle; text-align:right;">
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=700&size=28&pause=1000&color=4FCF3F&center=true&vCenter=true&width=600&lines=Are+you+looking+for+me%3F" alt="Typing SVG"/>
+  <br><br>
+  <!-- Name introduction in neon green -->
+  <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=600&size=24&pause=1000&color=4FCF3F&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aswin+S" alt="Typing SVG"/>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=500&size=24&pause=1&color=4FCF3F&center=true&vCenter=true&width=500&lines=Turning+ideas+into+Next-Gen+solutions&repeat=true"alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=500&size=24&pause=1&color=4FCF3F&center=true&vCenter=true&width=500&lines=High-Impact+Intelligent+Systems&repeat=true"alt="Typing SVG"/>
+</p>
+
 
   <p style="margin-top:10px; font-size:1px; color:#ffffff;">
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin480" style="margin-top:10px;"/>
-      </td>
-    </tr>
+      
   </table>
 </p>
 
 ---
-   🚀 AIML Enthusiast | Python Developer | Visionary Coder who loves to make machines think
+   From Mistakes to Momentum| Shaping a Future in Progress |Where Code Meets Creativity 
 ---
    
 ## 🌟 About Me
