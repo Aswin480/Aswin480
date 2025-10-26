@@ -1,15 +1,15 @@
 <!-- ======================== -->
-<!-- Sequential Typing Intro -->
+<!-- Sequential Intro Paragraph -->
 <!-- ======================== -->
-![Sequential Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=500&width=600&lines=Hello+World+%F0%9F%91%8B;I+am+Aswin+S.;CSE+AI%2FML+Student;Building+Future+Tech+%F0%9F%9B%80;Visionary+Coder+%26+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200&width=700&lines=Hello,+I+am+Aswin+S.;CSE+AI%2FML+Student+at+SRM+University+Tiruchirapalli.;I+build+intelligent+systems+and+futuristic+applications.;Passionate+about+AI,+ML+and+innovative+solutions.)
 
 ---
 
 ## 🌌 About Me
 Hi! I'm **Aswin S**, a **visionary AI/ML enthusiast and software developer**.  
-I specialize in **intelligent systems, predictive models, and futuristic applications**.  
+I specialize in building **intelligent systems, predictive models, and futuristic applications**.  
 
-💡 **Belief:** Code + AI = the future. I create **projects that learn, think, and solve real problems**.  
+💡 **Belief:** Code + AI = the future. I aim to create **projects that think, learn, and solve real-world problems**.  
 
 🚀 **Currently Exploring:**  
 - Advanced **Deep Learning & Transformers**  
@@ -49,11 +49,11 @@ I specialize in **intelligent systems, predictive models, and futuristic applica
 ## 🚀 Projects
 | Project | Tech | Preview | Description |
 |---------|------|---------|------------|
-| Expense Tracker | Python + ML | ![Demo](https://via.placeholder.com/180x100.png?text=Expense+Tracker+GIF) | AI-powered finance tracker with visual insights |
-| Inventory System | Python + SQLite | ![Demo](https://via.placeholder.com/180x100.png?text=Inventory+GIF) | Stock management with reporting system |
-| Web Scraper | Python | ![Demo](https://via.placeholder.com/180x100.png?text=Web+Scraper+GIF) | Extracts product info from e-commerce websites |
-| Contact Manager | Python | ![Demo](https://via.placeholder.com/180x100.png?text=Contact+Manager+GIF) | CRUD operations for contact database |
-| Guess the Number | Python | ![Demo](https://via.placeholder.com/180x100.png?text=Guess+Number+GIF) | Fun interactive console-based game |
+| Expense Tracker | Python + ML | ![Demo](https://via.placeholder.com/200x120.png?text=Expense+Tracker+GIF) | AI-powered finance tracker with visual insights |
+| Inventory System | Python + SQLite | ![Demo](https://via.placeholder.com/200x120.png?text=Inventory+GIF) | Stock management with reporting system |
+| Web Scraper | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Web+Scraper+GIF) | Extracts product info from e-commerce websites |
+| Contact Manager | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Contact+Manager+GIF) | CRUD operations for contact database |
+| Guess the Number | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Guess+Number+GIF) | Fun interactive console-based game |
 
 > More projects on [GitHub](https://github.com/AswinS)
 
