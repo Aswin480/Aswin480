@@ -1,92 +1,122 @@
 <!-- ======================== -->
-<!-- Sequential Intro Paragraph -->
+<!-- Typing Intro -->
 <!-- ======================== -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200&width=700&lines=Hello,+I+am+Aswin+S.;CSE+AI%2FML+Student+at+SRM+University+Tiruchirapalli.;I+build+intelligent+systems+and+futuristic+applications.;Passionate+about+AI,+ML+and+innovative+solutions.)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aswin+S.;CSE+AI/ML+Student+at+SRM+University+Tiruchirapalli.;AI/ML+Enthusiast+|+Python+Developer;Building+futuristic+projects+and+intelligent+systems" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🌌 About Me
-Hi! I'm **Aswin S**, a **visionary AI/ML enthusiast and software developer**.  
-I specialize in building **intelligent systems, predictive models, and futuristic applications**.  
+## 🌟 About Me
+Hey there! I'm **Aswin S**, a curious and passionate **AI/ML student and software developer**.  
+I love building **intelligent systems**, **ML models**, and **AI-powered applications** that solve real-world problems.  
 
-💡 **Belief:** Code + AI = the future. I aim to create **projects that think, learn, and solve real-world problems**.  
+💡 **Belief:** Code + AI = the future. I aim to create **projects that think, learn, and innovate**.  
 
-🚀 **Currently Exploring:**  
-- Advanced **Deep Learning & Transformers**  
-- **Computer Vision** (PyTorch + OpenCV)  
-- **AI-enabled Full-Stack Applications**  
-
----
-
-## 🛠️ Skills & Tools
-
-### AI / ML
-| Skill | Level |
-|-------|-------|
-| Python       | <img src="https://img.shields.io/badge/Python-100%25-brightgreen"> |
-| TensorFlow   | <img src="https://img.shields.io/badge/TensorFlow-85%25-yellow"> |
-| PyTorch      | <img src="https://img.shields.io/badge/PyTorch-80%25-orange"> |
-| Scikit-learn | <img src="https://img.shields.io/badge/Scikit--learn-75%25-red"> |
-
-### Development
-| Skill | Level |
-|-------|-------|
-| HTML5        | <img src="https://img.shields.io/badge/HTML5-90%25-brightgreen"> |
-| CSS3         | <img src="https://img.shields.io/badge/CSS3-85%25-yellow"> |
-| JavaScript   | <img src="https://img.shields.io/badge/JavaScript-80%25-orange"> |
-| SQLite       | <img src="https://img.shields.io/badge/SQLite-75%25-red"> |
-
-### Tools & Platforms
-| Tool | Level |
-|------|-------|
-| Git          | <img src="https://img.shields.io/badge/Git-100%25-brightgreen"> |
-| VS Code      | <img src="https://img.shields.io/badge/VS%20Code-90%25-yellow"> |
-| AWS/GCP      | <img src="https://img.shields.io/badge/AWS%2FGCP-75%25-orange"> |
-| Jupyter      | <img src="https://img.shields.io/badge/Jupyter-90%25-brightgreen"> |
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinS&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🚀 Projects
-| Project | Tech | Preview | Description |
-|---------|------|---------|------------|
-| Expense Tracker | Python + ML | ![Demo](https://via.placeholder.com/200x120.png?text=Expense+Tracker+GIF) | AI-powered finance tracker with visual insights |
-| Inventory System | Python + SQLite | ![Demo](https://via.placeholder.com/200x120.png?text=Inventory+GIF) | Stock management with reporting system |
-| Web Scraper | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Web+Scraper+GIF) | Extracts product info from e-commerce websites |
-| Contact Manager | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Contact+Manager+GIF) | CRUD operations for contact database |
-| Guess the Number | Python | ![Demo](https://via.placeholder.com/200x120.png?text=Guess+Number+GIF) | Fun interactive console-based game |
-
-> More projects on [GitHub](https://github.com/AswinS)
+### 💻 What I Do
+- 🌱 Currently exploring **Deep Learning, NLP, and Computer Vision**  
+- 🧠 Building projects like **Expense Tracker**, **Inventory System**, and **Web Scrapers**  
+- 💬 Love discussing **AI/ML, Data Visualization, and Python hacks**  
 
 ---
 
-## 📚 Currently Learning
-- **Transformers & NLP Models**  
-- **Cloud Deployment (AWS/GCP) for AI/ML**  
-- **Computer Vision Projects (PyTorch + OpenCV)**  
+### ⚡ Fun Bits
+- 🧩 Enjoy solving **logic puzzles and optimizing code**  
+- 🎵 Lo-fi beats fuel my coding sessions  
+- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”*  
+- 😄 Fun fact: I think in **algorithms before writing code**  
 
 ---
 
-## 🏆 Certifications
-- MathWorks: Deep Learning Onramp  
-- Bentley: OpenRoads Designer SDK  
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,flask,git,github,linux,opencv,tensorflow,vscode" />
+</p>
+
+---
+
+## 📬 Connect & Reach Me  
+<p align="center">
+  <a href="mailto:aswin@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aswin-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-388E3C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Projects
+<p align="center">
+
+| Project | Description |
+|---------|------------|
+| **Expense Tracker** | ![Demo](https://via.placeholder.com/150x100.png?text=Expense+Tracker) <br> Track credits, debits, and budgets with AI-powered insights |
+| **Inventory System** | ![Demo](https://via.placeholder.com/150x100.png?text=Inventory+System) <br> Manage stock efficiently with database support |
+| **Web Scraper** | ![Demo](https://via.placeholder.com/150x100.png?text=Web+Scraper) <br> Extract product info automatically from e-commerce sites |
+| **Contact Manager** | ![Demo](https://via.placeholder.com/150x100.png?text=Contact+Manager) <br> CRUD-based contact management system |
+| **Guess the Number** | ![Demo](https://via.placeholder.com/150x100.png?text=Guess+Number) <br> Fun interactive Python game |
+
+</p>
+
+---
+
+### 📚 Currently Learning
+- Transformers & NLP models  
+- Cloud deployment (AWS/GCP) for AI projects  
+- Advanced Computer Vision  
+
+---
+
+### 🏆 Certifications
+- MathWorks: Deep Learning Onramp ✅  
+- Bentley: OpenRoads Designer SDK ✅  
 - Coursera / IBM AI & ML Certificates  
 
 ---
 
-## 📊 GitHub Stats
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswinS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinS&layout=compact&theme=radical)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinS&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinS&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-aswin@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswin@example.com)
+### ✨ Fun Quote
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Every+bug+fixed+is+a+lesson+learned;Every+model+trained+is+a+step+toward+innovation;Keep+learning,+keep+building+💡" />
+</p>
 
 ---
 
-## ✨ Fun Facts
-- 🎵 Lo-fi beats fuel my AI/ML coding sessions  
-- 🧩 I think in **algorithms before writing code**  
-- 🌌 “Code today, innovate tomorrow”
+<p align="center">
+  <img src="https://github.com/AswinS/AswinS/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/38/4b/90/384b90bae69429b729ebe49f142178a5.gif" width="300" alt="thank you gif"/>
+</p>
+
+<h3 align="center">✨ Thanks for stopping by! ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:2962FF&height=100&section=footer"/>
+</p>
