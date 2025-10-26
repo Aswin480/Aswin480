@@ -1,12 +1,27 @@
-<!-- ======================== -->
-<!-- Typing Intro -->
-<!-- ======================== -->
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500"/>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aswin+S.;CSE+AI/ML+Student+at+SRM+University+Tiruchirapalli.;AI/ML+Enthusiast+|+Python+Developer;Building+futuristic+projects+and+intelligent+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aswin+S;AI+%26+ML+Developer;Visionary+Python+Coder;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
   </a>
 </p>
 
+<h3 align="center">🚀 AIML Enthusiast | Python Developer | Visionary Coder who loves to make machines think</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin480" />
+</p>
+
+
+ 
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 ---
 
 ## 🌟 About Me
