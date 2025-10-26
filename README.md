@@ -1,26 +1,27 @@
 <p align="center">
-  <img src="https://github.com/Aswin480/Aswin480/raw/cb218cf0a5a33ccaa7ccdc215a597b15499e7b23/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="500"/>
+  <table>
+    <tr>
+      <!-- Left side: GIF -->
+      <td>
+        <img src="https://github.com/Aswin480/Aswin480/raw/cb218cf0a5a33ccaa7ccdc215a597b15499e7b23/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="560" style="border-radius:10px;"/>
+      </td>
+<!-- Right side: Intro text + typing animation -->
+      <td style="padding-left:50px; vertical-align:middle; text-align:left;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=400&lines=Hi+there!+I'm+Aswin+S;AI+%26+ML Visionary+%26+Python Architect;Turning+Ideas+into+Next-Gen+Solutions;Building+High-Impact+Intelligent+Systems;Coding+Real-World+Impact" alt="Typing SVG" />
+
+  <p style="margin-top:10px; font-size:1px; color:#ffffff;">
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin480" style="margin-top:10px;"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aswin+S;AI+%26+ML+Developer;Visionary+Python+Coder;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<h3 align="center">🚀 AIML Enthusiast | Python Developer | Visionary Coder who loves to make machines think</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin480" />
-</p>
- 
 ---
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
+   🚀 AIML Enthusiast | Python Developer | Visionary Coder who loves to make machines think
 ---
-
+   
 ## 🌟 About Me
 Hey there! I'm **Aswin S**, a passionate **AI/ML student and software developer**.  
 I love building **intelligent systems**, **ML models**, and **AI-powered applications** that solve real-world problems.  
