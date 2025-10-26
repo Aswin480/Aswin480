@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Cfc_iNqokTE7t7U-45x4MwqjcPNd4y2c" width="500"/>
+  <img src="https://github.com/Aswin480/Aswin480/raw/cb218cf0a5a33ccaa7ccdc215a597b15499e7b23/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -13,14 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin480" />
 </p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Cfc_iNqokTE7t7U-45x4MwqjcPNd4y2c/view?usp=drive_link" target="_blank">
-    🎥 Watch My Video
-  </a>
-</p>
-
-
  
 ---
 
