@@ -1,6 +1,9 @@
 <div align="center">
   
+  <br><br>
+
   <img src="https://github.com/Aswin480/Aswin480/raw/aaa2cb342b2a8fea87efb302d80d8ba7162a1264/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #4FCF3F; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20Views&color=4FCF3F&style=for-the-badge" alt="aswins" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4FCF3F&background=0D111700&center=true&vCenter=true&width=900&lines=root%40AswinS%3A~%23+Initializing+Neuroverse...;root%40AswinS%3A~%23+Loading+Profile:+Aswin+S;root%40AswinS%3A~%23+AI+%2F%2F+Security+%2F%2F+Architecture" alt="Typing SVG" />
@@ -59,14 +62,22 @@ I am an engineer focused on the intersection of **Artificial Intelligence** and 
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Analytics & Intelligence
 
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin480&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br>
+  
 
+</div>
+
+<div align="center">
+  <h3>🎵 Neural Waves </h3>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
 </div>
 
 <div align="center">
