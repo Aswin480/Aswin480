@@ -30,20 +30,20 @@
 
 ---
 
-### ⚡ The Mission
+###  The Mission
 > *"Code + AI = The Future. I don't just write scripts; I build **projects that think, learn, and innovate**."*
 
 I am an engineer focused on the intersection of **Artificial Intelligence** and **Network Security**. My work moves beyond simple applications into **Intelligent Intrusion Detection Systems (IDS)**, **Autonomous Assistants**, and **High-Performance Backend Logic**.
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+###  The Arsenal (Tech Stack)
 
 <div align="center">
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **🧠 AI & Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
+| ** AI & Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
 | **🛡️ Network & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
 | **💻 Backend & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) |
 
@@ -51,18 +51,18 @@ I am an engineer focused on the intersection of **Artificial Intelligence** and 
 
 ---
 
-### 🚀 Featured Deployments
+###  Featured Deployments
 
 | **Project** | **Description** | **Tech Stack** |
 |:---:|:---|:---|
-| **🤖 Autonomous AI Assistant** | A strictly offline, memory-integrated personal assistant designed to rival cloud-based LLMs. Features proactive task management. | `Python` `LLM` `Speech Recog` |
-| **🔒 Hybrid IDS Simulator** | A real-time Intrusion Detection System simulation analyzing TCP/UDP traffic patterns to flag anomalies. | `Networking` `ML` `Packet Analysis` |
-| **📊 Neuroverse Portfolio** | A next-gen, 5-layer digital portfolio featuring 3D galleries and an AI avatar interface. | `React` `Three.js` `AI` |
-| **📂 Intelligent Inventory** | Database-backed stock management system with predictive analysis for re-stocking. | `SQL` `Python` `Data Viz` |
+| ** Autonomous AI Assistant** | A strictly offline, memory-integrated personal assistant designed to rival cloud-based LLMs. Features proactive task management. | `Python` `LLM` `Speech Recog` |
+| ** Hybrid IDS Simulator** | A real-time Intrusion Detection System simulation analyzing TCP/UDP traffic patterns to flag anomalies. | `Networking` `ML` `Packet Analysis` |
+| ** Neuroverse Portfolio** | A next-gen, 5-layer digital portfolio featuring 3D galleries and an AI avatar interface. | `React` `Three.js` `AI` |
+| ** Intelligent Inventory** | Database-backed stock management system with predictive analysis for re-stocking. | `SQL` `Python` `Data Viz` |
 
 ---
 
-### 📊 Analytics & Intelligence
+###  Analytics & Intelligence
 
 <div align="center">
   
@@ -74,7 +74,7 @@ I am an engineer focused on the intersection of **Artificial Intelligence** and 
 </div>
 
 <div align="center">
-  <h3>🎵 Neural Waves </h3>
+  <h3> Neural Waves </h3>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
