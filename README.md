@@ -1,93 +1,164 @@
 <div align="center">
   
-  <br><br>
+<br><br>
 
-  <img src="https://github.com/Aswin480/Aswin480/raw/aaa2cb342b2a8fea87efb302d80d8ba7162a1264/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #4FCF3F; margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20Views&color=4FCF3F&style=for-the-badge" alt="aswins" />
+<img src="https://github.com/Aswin480/Aswin480/raw/aaa2cb342b2a8fea87efb302d80d8ba7162a1264/WhatsAppVideo2025-10-26at17.03.41_c5bf0bcb-ezgif.com-optimize.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #4FCF3F; margin-bottom: 20px;">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4FCF3F&background=0D111700&center=true&vCenter=true&width=900&lines=root%40AswinS%3A~%23+Initializing+Neuroverse...;root%40AswinS%3A~%23+Loading+Profile:+Aswin+S;root%40AswinS%3A~%23+AI+%2F%2F+Security+%2F%2F+Architecture" alt="Typing SVG" />
-  </a>
-  
-  <br>
+<img src="https://komarev.com/ghpvc/?username=Aswin480&label=Profile%20Views&color=4FCF3F&style=for-the-badge" />
 
-  <p style="font-family: 'Courier New', Courier, monospace; font-size: 16px;">
-    <b>AI/ML Engineer</b> • <b>Network Security Researcher</b> • <b>System Architect</b>
-  </p>
-
-  <p>
-    <a href="https://github.com/Aswin480">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://Aswin480.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-    <a href="https://www.linkedin.com/in/aswin-s-22450b297">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aswinsajeevorg@gmail.com" 
-   target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4FCF3F&background=0D111700&center=true&vCenter=true&width=900&lines=root%40AswinS%3A~%23+Initializing+Neuroverse...;AI+%2F%2F+Backend+%2F%2F+Security;Building+Intelligent+Systems..." />
 </a>
 
-###  The Mission
-> *"Code + AI = The Future. I don't just write scripts; I build **projects that think, learn, and innovate**."*
+<br>
 
-I am an engineer focused on the intersection of **Artificial Intelligence** and **Network Security**. My work moves beyond simple applications into **Intelligent Intrusion Detection Systems (IDS)**, **Autonomous Assistants**, and **High-Performance Backend Logic**.
+<b>AI/ML Engineer • Backend Developer • System Architect</b>
 
----
+<br><br>
 
-###  The Arsenal (Tech Stack)
+<a href="https://github.com/Aswin480">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://Aswin480.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| ** AI & Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
-| **🛡️ Network & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
-| **💻 Backend & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) |
+<a href="https://www.linkedin.com/in/aswin-s-22450b297">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aswinsajeevorg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-###  Featured Deployments
-
-| **Project** | **Description** | **Tech Stack** |
-|:---:|:---|:---|
-| ** Autonomous AI Assistant** | A strictly offline, memory-integrated personal assistant designed to rival cloud-based LLMs. Features proactive task management. | `Python` `LLM` `Speech Recog` |
-| ** Hybrid IDS Simulator** | A real-time Intrusion Detection System simulation analyzing TCP/UDP traffic patterns to flag anomalies. | `Networking` `ML` `Packet Analysis` |
-| ** Neuroverse Portfolio** | A next-gen, 5-layer digital portfolio featuring 3D galleries and an AI avatar interface. | `React` `Three.js` `AI` |
-| ** Intelligent Inventory** | Database-backed stock management system with predictive analysis for re-stocking. | `SQL` `Python` `Data Viz` |
-
----
-
-###  Analytics & Intelligence
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin480&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br>
-  
-
-</div>
-
-<div align="center">
-  <h3> Neural Waves </h3>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4d3ugdtwilbfpk3qw7tlkttwa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Aswin480/Aswin480/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
 
+##  About Me
+
+I am a **Computer Science Engineer (AI & ML)** at SRM Institute of Science and Technology, Trichy.  
+I specialize in building **AI-powered systems, scalable backend architectures, and intelligent security platforms**.
+
+-  Focus: **LLMs, System Design, Backend Engineering**
+-  Strong in **AI pipelines + distributed systems**
+-  Interested in **Cyber Intelligence & IDS Systems**
+
+---
+
+##  Experience
+
+###  Software Development Intern — RedBus Pvt Ltd
+- Built **LLM chatbot** handling 100+ queries/session  
+- Developed **route optimization & occupancy prediction system**  
+- Designed **recommendation engine for dynamic offers**  
+- Built **modular AI pipelines for scalable systems**
+
+###  Software Development Intern — Srishti Innovative (Technopark)
+- Developed **ML models and structured pipelines**  
+- Improved performance via **feature engineering & preprocessing**
+
+###  Techsaksham AICTE Internship (Microsoft + SAP)
+- Built **enterprise-level ML solutions**  
+- Worked on **AI workflows & deployment pipelines**
+
+---
+
+##  Tech Stack
+
+###  AI / ML
+LLMs • NLP • Transformers • Hugging Face • Deep Learning  
+
+###  Backend
+FastAPI • Django • Node.js • REST APIs • Microservices  
+
+###  Data Systems
+Neo4j • NetworkX • Redis • Celery • Data Pipelines  
+
+###  Programming
+Python • JavaScript • C  
+
+###  Tools
+Docker • Git • Linux  
+
+---
+
+##  Flagship Project — GovIntel
+
+AI-powered governance intelligence platform built at scale.
+
+###  Features
+- NLP pipelines (Sentiment + Topic Modeling)  
+- Graph intelligence (Neo4j + NetworkX)  
+- Microservices backend (**600+ files scale**)  
+- Automated data ingestion (scrapers + RSS)  
+- Async processing using **Celery + Redis**
+
+###  Tech
+FastAPI • Django • Neo4j • Redis • Celery • Docker  
+
+---
+
+##  Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|------------|-----------|
+|  Autonomous AI Assistant | Offline LLM assistant with memory + proactive execution | Python, LLM, Speech Recognition |
+|  Hybrid IDS Simulator | Real-time intrusion detection using TCP/UDP analysis | Networking, ML, Packet Analysis |
+|  Neuroverse Portfolio | 3D portfolio with AI avatar interface | React, Three.js, AI |
+|  Intelligent Inventory | Predictive stock management system | SQL, Python, Data Visualization |
+
+---
+
+##  AI Systems Built
+
+-  LLM Chatbot (multi-user, real-time)  
+-  NLP Pipeline (NER, sentiment, summarization)  
+-  Autonomous AI Assistant (offline + memory-based)  
+
+---
+
+##  System Architecture
+
+- Microservices using **FastAPI & Django**  
+- Async task queues with **Celery**  
+- Redis caching for performance  
+- Graph-based analytics using **Neo4j**  
+- Scalable API infrastructure  
+
+---
+
+##  GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin480&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin480&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📄 Resume
+
+[View Resume](https://drive.google.com/file/d/1jMa24CD3I6Y9rJSzQQCJKdxN4AfxHIp5/view?usp=drive_link)
+
+---
+
+##  Currently Working On
+
+- Scaling **GovIntel platform**  
+- Improving **LLM assistant memory systems**  
+- Enhancing **IDS anomaly detection models**  
+---
+##  Career Focus
+- AI Systems Engineering  
+- Backend & Distributed Systems  
+- Intelligent Security Platforms  
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4FCF3F&height=100&section=footer" width="100%"/>
-  <br>
-  <i>"Every bug fixed is a lesson learned; Every model trained is a step toward innovation."</i>
+<img src="https://github.com/Aswin480/Aswin480/raw/output/github-contribution-grid-snake.svg" />
+<br>
+<i>"I don’t just build projects — I engineer intelligent systems that scale, learn, and adapt."</i>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4FCF3F&height=100&section=footer" width="100%"/
 </div>
