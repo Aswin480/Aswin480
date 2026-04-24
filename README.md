@@ -19,6 +19,9 @@
     <a href="https://github.com/Aswin480">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://Aswin480.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
     <a href="https://www.linkedin.com/in/aswin-s-22450b297">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
