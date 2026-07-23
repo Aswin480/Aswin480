@@ -43,7 +43,7 @@
 | **Name** | Aswin S |
 | **Degree** | B.Tech — CS Engineering (AI & ML) |
 | **University** | SRM Institute of Science & Technology, Trichy |
-| **Batch** | 2023 – Present |
+| **Batch** | 2023 – 2027 |
 | **Focus** | LLMs · System Design · Cyber Intelligence |
 | **Location** | India |
 | **Status** | Open to Opportunities |
