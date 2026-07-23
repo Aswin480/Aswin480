@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=4F8EF7)](https://github.com/Aswin480)
 [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=4F8EF7)](https://Aswin480.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=4F8EF7)](https://www.linkedin.com/in/aswin-s-22450b297)
-[![Resume](https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=googledrive&logoColor=4F8EF7)](https://drive.google.com/file/d/1jMa24CD3I6Y9rJSzQQCJKdxN4AfxHIp5/view)
+[![Resume](https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=googledrive&logoColor=4F8EF7)](https://drive.google.com/file/d/1Gzo0Wio1H4hdR7cY1mzfzcIP2W6waccU/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=4F8EF7)](mailto:aswinsajeevorg@gmail.com)
 
 <br/>
