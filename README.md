@@ -471,7 +471,7 @@ aswin     RAG-Research     LEARNING  Advanced RAG · Agent frameworks · Graph R
 
 <br/>
 
-`aswinsajeevorg@gmail.com` &nbsp;·&nbsp; `SRM Institute of Science & Technology` &nbsp;·&nbsp; `2023 – Present`
+`aswinsajeevorg@gmail.com` &nbsp;·&nbsp; `SRM Institute of Science & Technology` &nbsp;·&nbsp; `2023 – 2027`
 
 <br/><br/>
 
