@@ -348,6 +348,7 @@ AI-integrated urban governance platform that turns city-scale citizen reports in
 ---
 
 ## Certifications
+## Certifications
 
 <div align="center">
 
@@ -355,7 +356,7 @@ AI-integrated urban governance platform that turns city-scale citizen reports in
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/MATHWORKS-FF6600?style=for-the-badge&labelColor=0d1117"/>
+[![MathWorks](https://img.shields.io/badge/MATHWORKS-FF6600?style=for-the-badge&labelColor=0d1117)](https://drive.google.com/file/d/1wBox9xxa4vbtF6UgyiO3eCKhLuFQLh6T/view?usp=drive_link)
 
 <br/><br/>
 
@@ -364,7 +365,7 @@ AI-integrated urban governance platform that turns city-scale citizen reports in
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/META_×_COURSERA-0668E1?style=for-the-badge&labelColor=0d1117"/>
+[![Meta x Coursera](https://img.shields.io/badge/META_×_COURSERA-0668E1?style=for-the-badge&labelColor=0d1117)](https://drive.google.com/file/d/15c-g-YJX6lNvqD3JAtE1WDGrKw-45Y-l/view?usp=drive_link)
 
 <br/><br/>
 
@@ -373,7 +374,7 @@ AI-integrated urban governance platform that turns city-scale citizen reports in
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&labelColor=0d1117"/>
+[![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&labelColor=0d1117)](https://drive.google.com/file/d/10ERNcTgjGXY-odFmaqqnEGeMvzcoarg2/view?usp=drive_link)
 
 <br/><br/>
 
@@ -384,8 +385,6 @@ AI-integrated urban governance platform that turns city-scale citizen reports in
 </table>
 
 </div>
-
----
 
 ## GitHub Analytics
 
