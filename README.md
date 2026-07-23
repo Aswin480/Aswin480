@@ -441,7 +441,7 @@ aswin@github:~$ git log --stat --author="Aswin S" --since="2024-01-01"
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/VIEW_%26_DOWNLOAD_RESUME-4F8EF7?style=for-the-badge&logo=googledrive&logoColor=ffffff&labelColor=0d1117)](https://drive.google.com/file/d/1jMa24CD3I6Y9rJSzQQCJKdxN4AfxHIp5/view)
+[![Resume](https://img.shields.io/badge/VIEW_%26_DOWNLOAD_RESUME-4F8EF7?style=for-the-badge&logo=googledrive&logoColor=ffffff&labelColor=0d1117)](https://drive.google.com/file/d/1Gzo0Wio1H4hdR7cY1mzfzcIP2W6waccU/view?usp=drive_link)
 
 </div>
 
